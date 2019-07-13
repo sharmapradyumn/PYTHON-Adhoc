@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import datetime
-user_name=input("Enter your name:-")
+user_name=input("Enter your suraj name:-")
 user_age=int(input("Enter your age:-"))
 
 # storing value of current date w.r.t year,month and day
